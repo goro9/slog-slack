@@ -6,7 +6,7 @@ import (
 
 	"log/slog"
 
-	slogslack "github.com/samber/slog-slack/v2"
+	slogslack "github.com/goro9/slog-slack/v2"
 )
 
 func main() {

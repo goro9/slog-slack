@@ -1,4 +1,4 @@
-module github.com/samber/slog-slack/v2
+module github.com/goro9/slog-slack
 
 go 1.21
 
